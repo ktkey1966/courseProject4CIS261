@@ -1,0 +1,2 @@
+kevin|kev1|Admin
+susan|susan1|user
